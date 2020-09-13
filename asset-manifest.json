@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/tik-tok-clone/static/css/main.9b0dafd3.chunk.css",
+    "main.js": "/tik-tok-clone/static/js/main.fa6127cf.chunk.js",
+    "main.js.map": "/tik-tok-clone/static/js/main.fa6127cf.chunk.js.map",
+    "runtime-main.js": "/tik-tok-clone/static/js/runtime-main.f5422934.js",
+    "runtime-main.js.map": "/tik-tok-clone/static/js/runtime-main.f5422934.js.map",
+    "static/js/2.7759e5f4.chunk.js": "/tik-tok-clone/static/js/2.7759e5f4.chunk.js",
+    "static/js/2.7759e5f4.chunk.js.map": "/tik-tok-clone/static/js/2.7759e5f4.chunk.js.map",
+    "index.html": "/tik-tok-clone/index.html",
+    "precache-manifest.fb21cc203e9742a7a4628705af26e208.js": "/tik-tok-clone/precache-manifest.fb21cc203e9742a7a4628705af26e208.js",
+    "service-worker.js": "/tik-tok-clone/service-worker.js",
+    "static/css/main.9b0dafd3.chunk.css.map": "/tik-tok-clone/static/css/main.9b0dafd3.chunk.css.map",
+    "static/js/2.7759e5f4.chunk.js.LICENSE.txt": "/tik-tok-clone/static/js/2.7759e5f4.chunk.js.LICENSE.txt",
+    "static/media/vedio1.mp4": "/tik-tok-clone/static/media/vedio1.fe3e8945.mp4",
+    "static/media/vedio2.mp4": "/tik-tok-clone/static/media/vedio2.75450777.mp4"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f5422934.js",
+    "static/js/2.7759e5f4.chunk.js",
+    "static/css/main.9b0dafd3.chunk.css",
+    "static/js/main.fa6127cf.chunk.js"
+  ]
+}
